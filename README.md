@@ -1,0 +1,1 @@
+# equity_quant_strat
